@@ -40,4 +40,5 @@ lowercase n is the specific word user has to type to stop
 
 import blablabla as bla: also called as "alias import"
 
+`using ttk to costumize app more like native apps`
 
