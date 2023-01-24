@@ -38,4 +38,6 @@ uppercase Y is the default, if you type everything except n
 lowercase n is the specific word user has to type to stop  
 `while user_input != "n": blabla`  
 
+import blablabla as bla: also called as "alias import"
+
 
