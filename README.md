@@ -14,7 +14,12 @@ briefly, project will be
 (building and distributing)
 
 Also, trying [Repl](https://repl.it) for development
+```
+in Repl make sure u have your main.py
+Repl will automatically(force) running program in "main.py"
 
+quick test: import tkinter; tkinter._test()
+```
 
 
 
