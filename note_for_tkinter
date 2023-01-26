@@ -44,5 +44,15 @@ but if 2:1 then space will be seperated by 2:1
 v = tk.Text().pack()  
 : calling Text() and then pack()
 : but pack() will return None, so v will be None
+: `height` is the number of rows
+
+text.insert("1.0", "asdf") # from 1.0, insert "asdf"
+: line 1, which is FIRST line(werid)
+: character 0, which is FIRSR char(bruh)
+
+t = text.get("1.0", "end") # fetch from 1.0 to "end"
+
+
+widget["state"] = "disable"/"normal"
 
 
