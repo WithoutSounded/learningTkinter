@@ -6,8 +6,8 @@ Udemy: Jose Salvatierra
 Youtube: Codemy.com
 
 briefly, project will be
-1. Distance Converter app.
-![image](https://user-images.githubusercontent.com/37957361/214788551-5b056e60-767f-4897-969b-c919f4a984bf.png)
+1. Distance Converter app.  
+![image](https://user-images.githubusercontent.com/37957361/214788551-5b056e60-767f-4897-969b-c919f4a984bf.png)  
 
 2. Pomodoro app.
 3. Chat
