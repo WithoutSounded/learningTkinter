@@ -9,8 +9,8 @@ set_dpi_awareness()
 
 # application interface
 class DistanceConverter(tk.Tk):
-  def __init__(self):
-    super().__init__()
+  def __init__(self, *args, **kwargs):
+    super().__init__(*args, **kwargs)
     self.title("Distance Converter")
 
     # wont be available anywhere else, so using self.frame
