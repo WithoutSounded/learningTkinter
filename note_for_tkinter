@@ -39,3 +39,10 @@ root.columnconfigure(0, weight=1)
 weight setting: if there is only 0: taking the place which content need
 only 1: take all the place available
 but if 2:1 then space will be seperated by 2:1
+
+
+v = tk.Text().pack()  
+: calling Text() and then pack()
+: but pack() will return None, so v will be None
+
+
